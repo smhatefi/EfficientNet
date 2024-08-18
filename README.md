@@ -6,6 +6,8 @@ EfficientNet implementation from scratch for classifying images from the Oxford-
 - `data/`: Data transformations.
 - `train.py`: Script for training the model.
 - `evaluate.py`: Script for evaluating the model.
+- `requirements.txt`: List of dependencies.
+- `efficientnet_pet_model.pth`: Pre-trained weights provided for your convenience.
 
 ## Usage
 
