@@ -25,7 +25,7 @@ Then run the `evaluate.py` script to make predictions using the trained model:
 python evaluate.py
 ```
 
-### Dependencies
+## Dependencies
 Install the required dependencies using:
 ```
 pip install -r requirements.txt
