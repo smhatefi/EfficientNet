@@ -33,6 +33,7 @@ pip install -r requirements.txt
 
 ## Dataset
 The dataset used for training is the Oxford-IIIT Pet Dataset.
+
 ![Oxford-IIIT Pet Dataset Statistics](https://www.robots.ox.ac.uk/~vgg/data/pets/breed_count.jpg)
 
 ## License
