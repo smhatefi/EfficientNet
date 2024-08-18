@@ -12,6 +12,7 @@ EfficientNet implementation from scratch for classifying images from the Oxford-
 ## Usage
 
 ### 1. Training the Model
+To train the model, run:
 ```
 python train.py
 ```
