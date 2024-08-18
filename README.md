@@ -2,7 +2,6 @@
 EfficientNet implementation from scratch for classifying images from the Oxford-IIIT Pet Dataset
 
 ## Project Structure
-
 - `efficientnet/`: Contains the model and utility functions.
 - `data/`: Data transformations.
 - `train.py`: Script for training the model.
@@ -11,17 +10,14 @@ EfficientNet implementation from scratch for classifying images from the Oxford-
 ## Usage
 
 ### 1. Training the Model
-
 ```
 python train.py
 ```
 
 ### 2. Evaluating the Model
-
-First download your desired image and save it in the main directory of project with the name `example.jpg`.
+First download your desired image and save it in the main directory of project with the name `example.jpg`
 
 Then run the `evaluate.py` script to make predictions using the trained model:
-
 ```
 python evaluate.py
 ```
@@ -34,6 +30,7 @@ pip install -r requirements.txt
 
 ## Dataset
 The dataset used for training is the Oxford-IIIT Pet Dataset.
+![Oxford-IIIT Pet Dataset Statistics](https://www.robots.ox.ac.uk/~vgg/data/pets/breed_count.jpg)
 
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
